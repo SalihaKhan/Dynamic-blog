@@ -15,7 +15,7 @@ const Header = () => {
       {/* <!-- Navigation Links --> */}
       <nav id='app' className="space-x-6 hidden md:block">
         <Link href="/" className="text-gray-300 hover:text-white">Home</Link>
-        <Link href="/Blog" className="text-gray-300 hover:text-white">Blog</Link>
+        <Link href="/blogPost" className="text-gray-300 hover:text-white">Blog</Link>
     
         <Link href="/about"  className="text-gray-300 hover:text-white">About</Link>
         <Link href="/contact" className="text-gray-300 hover:text-white">Contact</Link>

@@ -1,7 +1,7 @@
-
+'use client'
 import Hero from "./component/hero";
 import React from "react";
-import BlogList from "./component/blogPost";
+import BlogPage from "./blogPost/page";
 const blogPosts = [
   {
     id: '1',
@@ -53,7 +53,8 @@ const blogPosts = [
     <div>
       <Hero />
       <div className=" bg-gray-50">
-      <BlogList posts={blogPosts}  />
+      <BlogPage />
+      
     </div>
      
     

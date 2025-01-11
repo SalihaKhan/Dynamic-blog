@@ -1,0 +1,12 @@
+[
+  { "id": 1, "imageUrl": "/image/next.png", "title": "Understanding JavaScript", "excerpt": "A deep dive into JavaScript concepts and techniques." },
+  { "id": 2, "imageUrl": "/image/react.png", "title": "React Basics", "excerpt": "An introduction to React, a JavaScript library for building UIs." },
+  { "id": 3, "imageUrl": "/image/css.png", "title": "CSS Flexbox Guide", "excerpt": "Learn how to use CSS Flexbox for modern layouts." },
+  { "id": 4, "imageUrl": "/image/tailwind.jpg", "title": "Next.js Overview", "excerpt": "Learn how Next.js simplifies server-side rendering and static generation." },
+  { "id": 5, "imageUrl": "/image/next.png", "title": "TypeScript Essentials", "excerpt": "Get started with TypeScript, a superset of JavaScript for better tooling and safety." },
+  { "id": 6, "imageUrl": "/image/typescript.jpg", "title": "Tailwind CSS Tips", "excerpt": "Discover helpful tips and best practices for using Tailwind CSS in your projects." },
+  { "id": 7, "imageUrl": "/image/node 1.png", "title": "Node.js Fundamentals", "excerpt": "A guide to understanding the core concepts of Node.js and its asynchronous model." },
+  { "id": 8, "imageUrl": "/image/graphql.png", "title": "GraphQL Introduction", "excerpt": "An introduction to GraphQL and how it can improve API development." }
+]
+
+  

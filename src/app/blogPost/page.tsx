@@ -2,6 +2,7 @@
 import Link from 'next/link';
 import { useEffect, useState } from 'react';
 import Image from 'next/image';
+import CommentSection from '../component/Commentsection';
 
 interface Post {
   id: number;
@@ -82,6 +83,7 @@ const BlogPage: React.FC = () => {
           );
         })}
       </div>
+
     </div>
   );
 };

@@ -146,7 +146,7 @@ const ContactPage = () => {
 
           <button
             type="submit"
-            className="w-full px-4 py-2 bg-green-500 text-white rounded-md hover:bg-green-600 transition"
+            className="w-full px-4 py-2 bg-blue-500 text-white rounded-md hover:bg-green-600 transition"
           >
             Submit Comment
           </button>
